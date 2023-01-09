@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;700;900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;500;700&family=Signika+Negative:wght@500&display=swap');
+.contenedorMenu{
+    justify-content: center;
+}
+
+
+.menu-form-inscritos{
+    margin-top: 25px;
+    border-radius: 40px;
+    justify-content: center;
+}
+
+.menu-carta{
+    border-radius: 10px;
+    width: max-content;
+}
+
+.tarjeta-laboral{
+    height: 400px;
+    border-radius: 25px ;
+    width: 230px !important;
+    
+}
+
+.contenedor-lab{
+   margin: 10px auto;
+}
+
+.tarLab-header{
+    
+ background-color:#f7971e;
+   font-size: xx-large;
+  color: #fff;
+  font-weight: 900;
+}
+.tarLab-titulo{
+   
+    font-family: 'Oswald', sans-serif;
+font-family: 'Signika Negative', sans-serif;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.tarLab-text{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+    font-weight: 200;
+    font-size: larger;
+    justify-content: justify;
+    font-size: 1em;
+}
+
+.btn-lab{
+    margin: 10px 5px;
+    width: 50%;
+}
+
+.card-header{ font-size: 1.3em!important;
+
+    color: black;
+    border-radius: 5px !important;
+
+
+
+
+}
+
+
+
+
+.card-text{
+    justify-content: justify;
+} 
+
+li{
+list-style: none!important
+
+}
+
+.container-tarjetas-db{
+    align-items: center;
+}
